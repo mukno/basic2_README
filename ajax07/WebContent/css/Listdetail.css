@@ -1,0 +1,48 @@
+*{
+margin:0;
+padding:0;
+}
+
+ul,li{
+list-style:none;
+}
+#memberViewa{
+	width:100%;
+	height:100%;
+	position:fixed;
+	left:0;
+	top:0;
+	background:#62cbd77d;
+	display:none;
+}
+#contentView{
+	position:absolute;
+	left:20%;
+	top:20%;
+	width:60%;
+	height:auto;
+	paddin:20px;
+	background:#fff;
+	line-height:30px
+}
+#contentView ul li{
+	boder:1px solid #fff;
+	backgruond:#ccc;
+	
+}
+#contentView.ul.li.span{
+
+dispaly:block;
+float:middle;
+width:50%;
+background:#000;
+color:#fff;
+}
+
+#abcd {
+magin:100px;
+float:right;
+width:10px;
+height:10px;
+
+}
