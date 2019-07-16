@@ -19,7 +19,7 @@
 	Name: <input type="text" name="userName" onfocus="idCheck()"><br>
 	Addr: <input type="text" name="userAddr" onfocus="idCheck()"><br>
 	<input type="button" onclick="joinOk()" value="회원가입"><br>
- 
+ abcd
 </form>
 
 
